@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+
+pdfjs/build
+dest
+work/pdf-annotatejs/dist
+
+dist
+jsdoc
