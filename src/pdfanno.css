@@ -3,6 +3,9 @@
 .no-visible {
     visibility: hidden;
 }
+.bg-474747 {
+    background: #474747;
+}
 
 /**
  * Viewer size.
